@@ -1,3 +1,4 @@
+//Facade class
 import java.util.Hashtable;
 public class BankService{
     private Hashtable<Integer, IAccount> bankAccounts;
